@@ -1,0 +1,7 @@
+﻿text	intent
+I prefer bread	food
+I like the color orange	color
+Pizza is my favorite	food
+Crimson is a great color	color
+Cheese is the bet	food
+my favorite color is magenta	color

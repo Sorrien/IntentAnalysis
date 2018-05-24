@@ -1,0 +1,7 @@
+﻿text	intent
+I like pie	food
+My favorite color is blue	color
+I like pizza	food
+my favorite color is black	color
+I like cheese	food
+my favorite color is purple	color
