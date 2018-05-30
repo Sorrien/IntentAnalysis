@@ -21,8 +21,8 @@ namespace IntentAnalysis
             {
                 var prediction = model.Predict(new IntentData
                 {
-                    text = "",
-                    Label = input
+                    text = input,
+                    Label = ""
                 });
                 Console.WriteLine(prediction.PredictedLabel);
                 input = Console.ReadLine();
